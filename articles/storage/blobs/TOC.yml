@@ -471,6 +471,8 @@
         href: static-website-content-delivery-network.md
       - name: Use GitHub Actions to deploy a static site to Azure Storage
         href: storage-blobs-static-site-github-actions.md
+      - name: Configure Application Gateway in front of static website
+        href: static-website-application-gateway.md
     - name: Use a custom domain
       href: storage-custom-domain-name.md
     - name: Route events to a custom endpoint

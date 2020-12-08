@@ -17,3 +17,5 @@ For information on Azure Application Gateway pricing, see [Application Gateway p
 
 ## Configure Azure Application Gateway
 
+
+
